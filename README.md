@@ -45,3 +45,11 @@ At epoch 50,
 * [임베딩 모델](https://github.com/Kyubyong/wordvectors)
 * [Pytorch Code Baseline](https://github.com/Niousha12/Text_Classification_via_GNN)
 * [utils.py, remove_words.py](https://github.com/CRIPAC-DIG/TextING)
+
+## Citation
+    @inproceedings{zhang2020every,
+    title={Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks},
+    author={Zhang, Yufeng and Yu, Xueli and Cui, Zeyu and Wu, Shu and Wen, Zhongzhen and Wang, Liang},
+    booktitle="Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    year={2020}
+    }
