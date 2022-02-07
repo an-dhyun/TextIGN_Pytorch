@@ -32,13 +32,6 @@ Check Accuracy with test dataset
 
     # visualize.txt에 분류할 텍스트 입력
     python visualize.py --epochs {사용할 pth파일의 epoch}
-    
-## Result
-
-At epoch 50, 
-- accuracy :  0.7825276575276575
-- f1_score :  0.777611542639313
-- recall_score :  0.7550646766169155
 
 ## Reference
 * [불용어 출처](https://www.ranks.nl/stopwords/korean)
