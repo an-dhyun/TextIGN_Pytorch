@@ -31,7 +31,7 @@ Check Accuracy with test dataset
 ## Visualize
 
     # visualize.txt에 분류할 텍스트 입력
-    python visualize.py
+    python visualize.py --epochs {사용할 pth파일의 epoch}
     
 ## Result
 
